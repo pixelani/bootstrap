@@ -66,4 +66,19 @@
 - Build tools: SASS 변수, 믹스인 등을 포함하여 Bootstrap을 빌드하는 데 필요한 도구.
 
 
+<hr>
+# 확장 템플릿 
+- 2023년 4월 기준으로, 여기에 몇 가지 대표적인 Bootstrap 커스텀 스타일 패키지 및 테마 제공 사이트를 소개합니다:
+
+- Bootswatch: Bootswatch는 Bootstrap을 위한 무료 테마 컬렉션을 제공합니다. 각 테마는 Bootstrap의 기본 CSS를 대체하는 것으로, 다양한 디자인과 색상 스키마를 제공하여 웹 사이트에 쉽게 적용할 수 있습니다.
+
+- ThemeForest: ThemeForest는 다양한 웹 테마와 템플릿을 판매하는 시장으로, Bootstrap 기반의 유료 테마들을 많이 보유하고 있습니다. 다양한 카테고리와 용도에 맞는 고품질의 테마들을 찾아볼 수 있습니다.
+
+- WrapBootstrap: WrapBootstrap 역시 Bootstrap 기반의 테마와 템플릿을 판매하는 마켓플레이스입니다. 여기에서는 사용자 인터페이스 키트부터 완전한 웹사이트 템플릿까지 다양한 유료 옵션을 찾아볼 수 있습니다.
+
+- StartBootstrap: StartBootstrap은 Bootstrap을 기반으로 한 무료 및 유료 템플릿과 테마를 제공합니다. 간단한 웹사이트부터 복잡한 대시보드 템플릿까지 다양한 유형의 프로젝트에 적용 가능한 리소스를 제공합니다.
+
+- Creative Tim: Creative Tim은 Bootstrap 기반의 사용자 인터페이스 키트, 템플릿, 그리고 대시보드를 제공하는 데 특화된 사이트입니다. 그들의 제품은 일반적으로 현대적인 디자인과 다양한 커스터마이징 옵션을 갖추고 있습니다.
+
+- 
 
